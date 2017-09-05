@@ -16,7 +16,7 @@ public class Hangman {
 	private char[] incorrectLettersGuessed;
 	
 	public Hangman() {
-		java.util.Random randomWordNumber = new java.util.Random(dictionary.length-1);
+		java.util.Random randomWordNumber = new java.util.Random(dictionary.length);
 		//this.mysteryWord = dictionary[randomWordNumber.nextInt()];
 		int r = randomWordNumber.nextInt();
 		System.out.println( "number of words: " + dictionary.length + " word number: " + r + " word: " + mysteryWord );
