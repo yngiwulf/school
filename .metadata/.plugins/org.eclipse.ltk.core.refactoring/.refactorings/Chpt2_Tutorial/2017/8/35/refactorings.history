@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Chpt2_Tutorial.java&apos; to &apos;Chpt2_First_Assignment.java&apos;&#x0D;&#x0A;- Original project: &apos;Chpt2_Tutorial&apos;&#x0D;&#x0A;- Original element: &apos;Chpt2_Tutorial.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Chpt2_First_Assignment.java&apos;" description="Rename compilation unit &apos;Chpt2_Tutorial.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Chpt2_Tutorial.java" name="Chpt2_First_Assignment.java" references="false" stamp="1504133386330" version="1.0"/>
+</session>
